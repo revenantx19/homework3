@@ -74,6 +74,7 @@ public class Main {
             } else {
                 System.out.println(three + "\nДомашняя работа выполнена");
             }
+
         }
 
 
